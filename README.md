@@ -1,4 +1,4 @@
-# Legacy Reroute: The Plaines [TEMPLATE]
+# Legacy Reroute: The Plains [TEMPLATE]
 
 A fictional rural road template inspired by Illinois that is actually “kind of” compliant with the MUTCD.
 
