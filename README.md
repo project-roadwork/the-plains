@@ -8,9 +8,9 @@ typical starter templates.
 	
 ## LICENSE AND NOTICES
 
-* The content of "The Plains" is licensed under the Creative Commons Attribution 4.0 license.
+* **The content of *"The Plains"* is licensed under the [Creative Commons Attribution 4.0 license (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).**
 	
-* The "LICENSE-CONTENT" file refers to the license OF non-software content such as maps, unions, etc. This does not encompass or include software.
+* The *"LICENSE-CONTENT"* file refers to the license OF non-software content such as maps, unions, etc. This does not encompass or include software.
 	
 * License information regarding software can be found in the NOTICE file in this repository or game/place folder.
 	
