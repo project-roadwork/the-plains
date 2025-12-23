@@ -1,3 +1,5 @@
+return [[
+
 USAGE: 
 	GAME/PLACE: ./Information/MODIFICATIONS.luau
 	GIT: ./MODIFICATIONS.md
@@ -13,7 +15,7 @@ This file is not called "CHANGELOG" since fork history should be considered too.
 			Author: Illinois_Roadbuff "Rogue Jr"
 	
 			[MODIFICATIONS]
-				- Added new tollway assets (gantrys, etc)
+				- Added new tollway assets (gantries, etc.)
 				- Added brightness to the lighting
 				- Added a ColorCorrection effect
 				- Provided an example sign on the tollway gantry (CC BY 4.0)
@@ -60,3 +62,5 @@ This file is not called "CHANGELOG" since fork history should be considered too.
 				
 			You may add more sections as you wish.
 	
+
+]]
