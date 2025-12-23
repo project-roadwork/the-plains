@@ -2,9 +2,10 @@ USAGE:
 	GAME/PLACE: ./Information/NOTICE.luau
 	GIT: ./NOTICE.md
 
-Provides licensing information, modifications, changelogs, fork history, etc.
+Provides licensing and other useful information.
 
 This notice is for informational purposes only, and not for legal advice. You may remove this notice for your own projects; however, you must comply with the applicable licenses below.
+Please use the MODIFICATIONS file to note/view changelogs and modifications.
 
 ## FROM OFFICIAL "The Plains" TEMPLATE:
 
@@ -28,7 +29,7 @@ This notice is for informational purposes only, and not for legal advice. You ma
 
 		NOTICE: The CC BY 4.0 license ONLY applies to non-software content (e.g., maps, unions, meshes, etc.) unless otherwise noted.
 
-		All software in this template is licensed under the Apache 2.0 license unless otherwise explicitly noted such as a license header.
+		All software in this template is licensed under the Apache License 2.0 unless otherwise explicitly noted such as a license header.
 
 		Most scripts already have their own license identifier, and may include MIT/Expat/ISC, Apache, BSD, etc. 
 		Some scripts may even be in the public domain.
@@ -40,35 +41,10 @@ This notice is for informational purposes only, and not for legal advice. You ma
 		TEMPLATE CODEBERG REPOSITORY: https://codeberg.org/project-roadwork/the-plains (MAIN)
 		TEMPLATE GITHUB REPOSITORY: https://github.com/project-roadwork/the-plains (BACKUP)
 	
-	D. Changelog [MM/DD/YYYY]
-
-		[12/20/2025 : The Plains, Version 0.1.2-infdev]
-			Author: Illinois_Roadbuff "Rogue Jr"
-	
-			[MODIFICATIONS]
-				- Added a new girder mesh in the utilities area
-				- Added a dedicated "Information" folder in the game
-				- Clarified "BSD+Patent" as "BSD-2-Clause-Patent" with a link to the OSI-approved license 
-				  to ease future confusion: https://opensource.org/license/bsdpluspatent
-				
-		[12/20/2025 : The Plains, Version 0.1.1-infdev]
-			Author: Illinois_Roadbuff "Rogue Jr"
-	
-			[MODIFICATIONS]
-				- Fixed wheat and crop visibility command issue
-				
-		[12/20/2025 : The Plains, Version 0.1.0-infdev]
-			Author: Illinois_Roadbuff "Rogue Jr"
-	
-			[MODIFICATIONS]
-				- Initial release
-	
 ## FORKED NOTES:
 
 	[ DATE: [add date here MM/DD/YYYY] | AUTHOR / CONTRIBUTOR: [add your name here if you are forking] ]
 		
 		NOTES:
-			[add any notes here]
-
-		MODIFICATIONS:	
-			[add modifications here]
+			[add any useful information here]
+	
