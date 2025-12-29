@@ -1,5 +1,5 @@
 -- MIT license
--- (c) Illinois_Roadbuff "Rouge Jr"
+-- (c) Illinois_Roadbuff "Rogue Jr"
 -- Usage: ./src/outside-scope.luau
 
 local WARNING = [[
