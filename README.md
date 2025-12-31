@@ -6,7 +6,7 @@ A free, open source and open content template situated in a fictional rural area
 	
 **Releases: [Legacy Reroute: The Plains Release Files - Codeberg](https://codeberg.org/project-roadwork/the-plains/releases)**
 
-![i](./assets/images/the-plains-interim-banner.png)
+![i](./assets/images/the-plains-interim-banner_smaller.png)
 	
 ## A. LICENSE AND NOTICES
 
